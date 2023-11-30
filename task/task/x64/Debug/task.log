@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dengo\OneDrive\Рабочий стол\task5_pi\task5\task\task\main.cpp(9,16): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  task.vcxproj -> C:\Users\dengo\OneDrive\Рабочий стол\task5_pi\task5\task\x64\Debug\task.exe
