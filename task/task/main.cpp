@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Требуется посчитать сумму целых чисел, расположенных между числами 1 и N включительно. 
+// You need to calculate the sum of integers located between the numbers 1 and N inclusive. 
 int sum(int N)
 {
     int res = 0;
